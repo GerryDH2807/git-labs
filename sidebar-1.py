@@ -10,8 +10,8 @@ sidebar.title("Titulo de barra lateral")
 
 sidebar.write("Informacion de mi sidebar")
 
-st.header("Header de mi app")
-st.write("Informacion de mi app")
+st.header("Te amo mucho mi vida preciosa")
+st.write("Eres lo mejor que me ha pasado")
 
 if sidebar.checkbox('Show dataframe'):
     chart_data = pd.DataFrame(
